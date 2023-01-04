@@ -1,6 +1,6 @@
-# Contributing to `MOMOMIA` 
+# Contributing to `DAPUR OMA` 
   
- A big welcome and thank you for considering contributing to **Momomia** open source project! 😀
+ A big welcome and thank you for considering contributing to **DAPUR OMA** open source project! 😀
   
  Reading and following these guidelines will help us make the contribution process easy and effective for everyone involved. It also  communicates that you agree to respect the time of the developers managing and developing these open source projects. In return, we 
  will reciprocate that respect by addressing your issue, assessing changes, and helping you finalize your pull requests. 
@@ -26,7 +26,7 @@
 
  If you find an existing Issue that addresses the similar problem you're having please add your own reproduction information to 
  the existing issue rather than creating a new one.
- You can check the existing issues and create new issues from [here](https://github.com/RIKI-05/MOMOMIA/issues)
+ You can check the existing issues and create new issues from [here](https://github.com/RIKI-05/DAPUR OMA/issues)
   
  ### Pull Requests 
   

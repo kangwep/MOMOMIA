@@ -1,4 +1,4 @@
-# MOMOMIA
+# DAPUR OMA
 
 The purpose of an Online Food Ordering System is to automate the existing manual system with the help of computerized equipment and full-fledged computer software, fulfilling their requirements so that their valuable data/information can be stored for a longer period with easy access and manipulation of the same. The required software and hardware are easily available and easy to work with.
 
@@ -6,12 +6,12 @@ Online Food Ordering System, as described above, can lead to an error-free, secu
 
 The aim is to automate its existing manual system with the help of computerized equipment and full-fledged computer software, fulfilling their requirements, so that their valuable data/information can be stored for a longer period with easy access and manipulation of the same. Basically, the project describes how to manage for good performance and better services for the clients.
 
-The "MOMOMIA" has been practiced to override the prevalent problems in manual systems. This website is compatible to finalize and, in some cases, reduces the difficulties faced by this existing system. In addition, the system is designed to function smoothly and effectively for the special needs of the company.
+The "DAPUR OMA" has been practiced to override the prevalent problems in manual systems. This website is compatible to finalize and, in some cases, reduces the difficulties faced by this existing system. In addition, the system is designed to function smoothly and effectively for the special needs of the company.
 
 The website is minimized as much as possible to avoid errors when entering data. It also gives an error message when entering invalid data. No formal knowledge is required for the user to use this system. Therefore, every test is easy to use. Online food order systems, as described above, can lead to error-free, safe, reliable, and fast management systems. This can help the user focus on his other activities instead of focusing on record keeping. Therefore, it will help the organization to make better use of resources.
 
 ## Website Link-
-<a href="https://main--momomias.netlify.app/momomia/">MOMOMIA</a>
+<a href="https://main--DAPUR OMAs.netlify.app/DAPUR OMA/">DAPUR OMA</a>
 
 ## 📝 Table of Contents
 - [Logo](#logo)
@@ -26,13 +26,13 @@ The website is minimized as much as possible to avoid errors when entering data.
 
 # SCREENSHOTS <a name="screenshots"></a>
 
-![updatedMomomia1](https://user-images.githubusercontent.com/89804314/194807939-f82645f0-acab-441f-8c69-ef15eaee3c7b.jpg)
+![updatedDAPUR OMA1](https://user-images.githubusercontent.com/89804314/194807939-f82645f0-acab-441f-8c69-ef15eaee3c7b.jpg)
 
-![updatedMomomia2](https://user-images.githubusercontent.com/89804314/194807992-18e7d1bd-cbd0-46c5-b163-54548f6c98bf.jpg)
+![updatedDAPUR OMA2](https://user-images.githubusercontent.com/89804314/194807992-18e7d1bd-cbd0-46c5-b163-54548f6c98bf.jpg)
 
-![updatedMomomia3](https://user-images.githubusercontent.com/89804314/194808047-36643fe9-ab51-43be-bc10-0079934eb661.jpg)
+![updatedDAPUR OMA3](https://user-images.githubusercontent.com/89804314/194808047-36643fe9-ab51-43be-bc10-0079934eb661.jpg)
 
-![updatedMomomia4](https://user-images.githubusercontent.com/89804314/194808259-bdb3e8a9-8d3c-4bfd-a8e4-e971653836a3.jpg)
+![updatedDAPUR OMA4](https://user-images.githubusercontent.com/89804314/194808259-bdb3e8a9-8d3c-4bfd-a8e4-e971653836a3.jpg)
 
 ## Tech Stack <a name = "tech_stack"></a>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
@@ -51,11 +51,11 @@ The website is minimized as much as possible to avoid errors when entering data.
 ## 📌How to Contribute📝:<a name="How-to-Contribute"></a>
 
 To contribute, look out for the issues raised by the maintainers as well as the other participants for contributions.
-Confused about where to start? Check out [good-first-issue](https://github.com/RIKI-05/MOMOMIA/labels/good%20first%20issue).
+Confused about where to start? Check out [good-first-issue](https://github.com/RIKI-05/DAPUR OMA/labels/good%20first%20issue).
 
 ### To start contributing, follow the below guidelines: 
 
-**1.**  Fork [this](https://github.com/RIKI-05/MOMOMIA) repository.
+**1.**  Fork [this](https://github.com/RIKI-05/DAPUR OMA) repository.
 
 **2.**  Clone your forked copy of the project.
 
@@ -72,7 +72,7 @@ cd community-website
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/RIKI-05/MOMOMIA.git 
+git remote add upstream https://github.com/RIKI-05/DAPUR OMA.git 
 ```
 
 **5.** Check the remotes for this repository.
@@ -145,8 +145,8 @@ LOOKING FORWARD TO YOUR CONTRIBUTIONS!
 <table align="center">
 <tr>
 <td>
-<a href="https://github.com/RIKI-05/MOMOMIA/graphs/contributors" align="center">
-  <img src="https://contributors-img.web.app/image?repo=RIKI-05/MOMOMIA" /> 
+<a href="https://github.com/RIKI-05/DAPUR OMA/graphs/contributors" align="center">
+  <img src="https://contributors-img.web.app/image?repo=RIKI-05/DAPUR OMA" /> 
 </a>
 </td>
 </tr>
