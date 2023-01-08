@@ -127,7 +127,7 @@ a:hover {
   -webkit-text-stroke: 0vw rgb(44, 42, 42);
   border-right: 3px solid rgb(246, 34, 34);
   overflow: hidden;
-  animation: animate 6s linear infinite;
+  animation: animate 11s linear infinite;
 }
 
 @keyframes animate {
