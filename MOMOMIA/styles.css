@@ -906,7 +906,7 @@ footer a {
   }
 
   .homeImg {
-    width: auto;
+    width: 100%;
     height: auto;
     margin-left: 10px !important;
   }
