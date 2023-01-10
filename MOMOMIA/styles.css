@@ -902,7 +902,7 @@ footer a {
   }
 
   .homeImgCol {
-    margin: auto;
+    margin: 50px auto 0 auto;
   }
 
   .homeImg {
@@ -1010,7 +1010,7 @@ footer a {
   }
 
   .homeImgCol {
-    width: auto;
+    width: 244px;
     height: auto;
   }
 
