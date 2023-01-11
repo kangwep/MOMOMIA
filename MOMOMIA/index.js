@@ -238,13 +238,13 @@ function openWhatsapp() {
     let total = 0;
     let address = $("#address")[0].value;
     let note = $("#note")[0].value;
-    let wTxt = "*name*               *quantity* \n";
+    let wTxt = "*name*                      *quantity* \n";
 
     for (var i = 0; i < food.length; i++) {
       let name = food[i][0];
       let quantity = food[i][1];
       total = total + food[i][1] * food[i][2];
-      wTxt = wTxt + name + "              " + quantity + "  \n";
+      wTxt = wTxt + name + "           " + quantity + "  \n";
     }
 
     if ($("#note")[0].value === "") {
