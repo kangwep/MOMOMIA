@@ -244,16 +244,16 @@ function openWhatsapp() {
       let name = food[i][0];
       let quantity = food[i][1];
       total = total + food[i][1] * food[i][2];
-      wTxt = wTxt + name + "      " + quantity + "  \n";
+      wTxt = wTxt + name + "              " + quantity + "  \n";
     }
 
     if ($("#note")[0].value === "") {
       wTxt =
-        wTxt + "\n *Total Bill: " + total + "*" + "\n\n Address: " + address;
+        wTxt + "\n *Total Bill: Rp" + total + "*" + "\n\n Address: " + address;
     } else {
       wTxt =
         wTxt +
-        "\n *Total Bill: " +
+        "\n *Total Bill: Rp" +
         total +
         "*" +
         "\n\n Address: " +
