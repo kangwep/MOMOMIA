@@ -223,8 +223,7 @@ $(document).ready(function () {
     $(".totalAmountDiv").empty();
     $(".totalAmountDiv").append(
       '<span class="totalAmountText">TOTAL AMOUNT : </span><br/>' +
-        '<i class="fa-solid fa-rupiah-sign"></i> ' +
-        totalAmount
+        '<i class="fa-solid fa-rupiah-sign"></i> ' + totalAmount
     );
   }
 });
