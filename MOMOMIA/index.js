@@ -238,7 +238,7 @@ function openWhatsapp() {
     let total = 0;
     let address = $("#address")[0].value;
     let note = $("#note")[0].value;
-    let wTxt = "*Name*                                  *Jumlah* \n";
+    let wTxt = "*Name*                                      *Jumlah* \n";
 
     for (var i = 0; i < food.length; i++) {
       let name = food[i][0];
