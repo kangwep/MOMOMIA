@@ -249,11 +249,11 @@ function openWhatsapp() {
 
     if ($("#note")[0].value === "") {
       wTxt =
-        wTxt + "\n *Total Bill: Rp" + total + "*" + "\n\n Address: " + address;
+        wTxt + "\n *Total Bill: Rp. " + total + "*" + "\n\n Address: " + address;
     } else {
       wTxt =
         wTxt +
-        "\n *Total Bill: Rp" +
+        "\n *Total Bill: Rp. " +
         total +
         "*" +
         "\n\n Address: " +
